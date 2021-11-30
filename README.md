@@ -1,4 +1,4 @@
-# MOvApps (Flutter Project)
+# MovApps (Flutter Project)
 
 Hi everybody. How are you guys? May you always be in good health and of course always be blessed by God!
 
